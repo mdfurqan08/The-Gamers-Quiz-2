@@ -1,0 +1,95 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas{
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  border: 2px solid black;
+}
+.message{
+  font-size: 40px;
+  color: rgb(255, 255, 255);
+  font-family: cursive;
+  text-align: center;
+}
+.title{ font-size: 40px;
+  color: rgb(0, 0, 0);
+  font-family: Allan;
+  text-align: center;}
+
+.customButton {
+  width:180px;
+  height:50px;
+  background-color: #fea834;
+  border: 3px solid white;
+  color: #FFFF;
+  font-weight:bold;
+  border-radius: 10px;
+  margin-bottom:100px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: cursive;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  outline: none;
+}
+.customButton2 {
+  width:170px;
+  height:30px;
+  background-color: #fea834;
+  border: 3px solid white;
+  color: rgb(7, 7, 7);
+  font-weight:bold;
+  border-radius: 10px;
+  margin-bottom:100px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: vollkorn;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  outline: none;
+}
+.customButton3 {
+  width:250px;
+  height:30px;
+  background-color: #fea834;
+  border: 3px solid white;
+  color: rgb(7, 7, 7);
+  font-weight:bold;
+  border-radius: 6px;
+  margin-bottom:90px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: vollkorn;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  outline: none;
+}
+
+.text{
+  font-size: 30px;
+  color: rgb(5, 5, 5);
+  font-family: cursive;
+  text-align: center;
+}
+
+.text2{
+  font-size: 23px;
+  color: rgb(0, 0, 0);
+  font-family: cursive;
+  text-align: center;
+}
